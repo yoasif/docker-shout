@@ -4,7 +4,7 @@ The [LinuxServer.io](https://www.linuxserver.io/) team brings you another qualit
 
 # linuxserver/shout
 
-Shout is a web IRC client that you host on your own server.
+[Shout](http://shout-irc.com) is a web IRC client that you host on your own server.
 
 __What features does it have?__  
 - Multiple user support
